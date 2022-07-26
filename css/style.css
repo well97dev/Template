@@ -71,34 +71,26 @@
     border-radius: 50%;
     background: #fff;
 }
-
+.card_geral {
+    padding: 100px 0px  0px 0px;
+}
 .card01 {
-    margin-top: 500px;
-    width: 500px;
-    margin-right: 80%;
-    padding-left: 0px;
+  float: left;
+  
 }
 
 .card02 {
-    margin-top:400px;
-    width: 500px;
-    margin-right: 600px;
-    padding-left: 0px;
-    margin-top: 0px;
+    float:right;
 }
 
 .card03 {
-    margin-top:-160px;
-    width:500px;
-    margin-left: 800px;
-    margin-top:-300px;
+   float:left;
+   
 }
 
 .card04  {
-    margin-top: -697px;
-    width: 500px;
-    margin-left: 800px;
-    margin-top: 0px;
+   float: right;
+   
 }
 
 
