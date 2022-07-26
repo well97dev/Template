@@ -84,18 +84,21 @@
     width: 500px;
     margin-right: 600px;
     padding-left: 0px;
+    margin-top: 0px;
 }
 
 .card03 {
     margin-top:-160px;
     width:500px;
     margin-left: 800px;
+    margin-top:-300px;
 }
 
 .card04  {
     margin-top: -697px;
     width: 500px;
     margin-left: 800px;
+    margin-top: 0px;
 }
 
 
