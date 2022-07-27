@@ -38,7 +38,6 @@
     display: flex;
     margin-left: 900px;
     margin-top: -400px;
-    flex-direction: row;
 }
 
 .carousel01 a {
@@ -74,20 +73,20 @@
 }
 .card01 {
   float: left;
+
 }
 
 .card02 {
     float:right;
+
 }
 
 .card03 {
    float:left;
-   
 }
 
 .card04  {
    float: right;
-   
 }
 
 
