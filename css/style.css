@@ -50,6 +50,15 @@
     padding: 0px !important;
 }
 
+@media screen and (max-width:992) {
+    .navbar01 {
+        display: none;
+    }
+    .container02 {
+        display: none;
+    }
+}
+
 .info01{
     color: #0dcaf0;
 }
@@ -59,7 +68,7 @@
     justify-content: space-between;
     font-size: 40px;
     margin: 0;
-    margin-left: 70px;
+    margin-left: 90px;
     padding: 0px;
     border-style: 2px;
     border-radius: 50%;
