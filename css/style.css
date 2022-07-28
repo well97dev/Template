@@ -38,6 +38,8 @@
     display: flex;
     margin-left: 800px;
     margin-top: -400px;
+    max-height: 100vh;
+    max-width: 100vw;
 }
 
 .carousel01 a {
