@@ -1,5 +1,6 @@
 html, body {
     overflow-y: auto;
+    overflow-x: hidden;
 }
 
 .container {
@@ -36,7 +37,7 @@ html, body {
 
 #carousel01 {
     width:54% !important;
-    height: 400px !important;
+    height: 350px !important;
     padding: 0px;
     margin-left: 800px;
     margin-top: -400px;
