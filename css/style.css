@@ -31,7 +31,7 @@
 }
 
 #carousel01 {
-    width:44% !important;
+    width:54% !important;
     height: 400px !important;
     padding: 0px;
     margin-left: 800px;
@@ -50,7 +50,7 @@
 }
 .navbar01 a {
     font-size: 20px !important;
-    margin-left: 90px !important;
+    margin-left: 80px !important;
     padding: 0px !important;
 }
 
@@ -78,7 +78,7 @@
     justify-content: space-between;
     font-size: 40px;
     margin: 0;
-    margin-left: 90px;
+    margin-left: 12%;
     padding: 0px;
     border-style: 2px;
     border-radius: 50%;
